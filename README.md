@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Jyhdel! I'm a Software Engineer at Medpace in Cincinnati, Ohio. 👋
 
 <!--
 **jyhdelpamonag/jyhdelpamonag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
