@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Jyhdel!
-I'm a Software Engineer at **Medpace** in Cincinnati, Ohio, with over **5 years of software development experience** - including 3 years of as an intern. I've been working full-time at Medpace for the last **2 years** building enterprise applications that are reliable, scalable, and effecient.
+I'm a Software Engineer at **Medpace** in Cincinnati, Ohio, with over **5 years of software development experience** - including 3 years as an intern. I've been working full-time at Medpace for the last **2 years** building enterprise applications that are reliable, scalable, and effecient.
 
 ## 👨‍💻 Tech Stack:
 - **Languages**: C#, Java, Python, SQL, HTML, CSS, JavaScript, Dart
